@@ -1,4 +1,4 @@
-package comokhttpdemo.cn.okhttp_demotest;
+package comokhttpdemo.cn.okhttp_demo;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

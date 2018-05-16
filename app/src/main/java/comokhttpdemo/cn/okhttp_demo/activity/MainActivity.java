@@ -1,10 +1,10 @@
-package comokhttpdemo.cn.okhttp_demotest.activity;
+package comokhttpdemo.cn.okhttp_demo.activity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 
-import comokhttpdemo.cn.okhttp_demotest.R;
+import comokhttpdemo.cn.okhttp_demo.R;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -20,13 +20,6 @@ public class MainActivity extends AppCompatActivity {
      * @param view
      */
     public void feature_1(View view){
-
-    }
-
-    public void test(){
-
-    }
-    public void test1(){
 
     }
 

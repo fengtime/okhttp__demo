@@ -1,4 +1,4 @@
-package comokhttpdemo.cn.okhttp_demotest.Model.utility;
+package comokhttpdemo.cn.okhttp_demo.Model.utility;
 
 /**
  * Created by orange on 2018/5/14.
