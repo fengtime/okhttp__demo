@@ -5,5 +5,5 @@ package comokhttpdemo.cn.okhttp_demo.utils;
  */
 
 public class utils_api {
-    String url = "1234567890";
+    String url = "qwertyuiop";
 }
