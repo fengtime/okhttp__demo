@@ -1,4 +1,4 @@
-package comokhttpdemo.cn.okhttp_demo;
+package comokhttpdemo.cn.okhttp_demotest;
 
 import org.junit.Test;
 

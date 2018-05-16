@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="comokhttpdemo.cn.okhttp_demo.activity.MainActivity">
+    tools:context="comokhttpdemo.cn.okhttp_demotest.activity.MainActivity">
 
     <TextView
         android:layout_width="wrap_content"
